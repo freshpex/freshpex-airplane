@@ -6,7 +6,7 @@ import discover1 from "../assets/images/discover1.svg";
 import discover2 from "../assets/images/discover2.svg";
 import discover3 from "../assets/images/discover3.svg";
 import Flybe from "../assets/icons/flybe.svg";
-import JetBlue from "../assets/icons/jetblue.svg";
+import JetBlue from "../assets/icons/jetBlue.svg";
 import Lufthansa from "../assets/icons/lufthansa.svg";
 import AirFrance from "../assets/icons/airFrance.svg";
 
